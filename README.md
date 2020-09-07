@@ -6,7 +6,7 @@ we can make website more accessablity by using appropriate semantic HTML element
 
 ## contributors
 
-##### Nirmala Abothu
+### Nirmala Abothu
 
 Made website(Internet Marketing And Business Management) more readable for Screen Readers
 and Search Engine Optimization by adding appropriate Semantic HTML elements in index.html file.
