@@ -2,7 +2,7 @@
 
 ## Description
 
-We can make website more accessible by by as many people as possible by using appropriate semantic HTML elements.
+We can make website more accessible by as many people as possible by using appropriate semantic HTML elements.
 
 ---
 
@@ -10,13 +10,15 @@ We can make website more accessible by by as many people as possible by using ap
 
 Followed the tutorials https://www.w3schools.com/html/html5_semantic_elements.asp
 to understand the semantic elements,how it is important in building website and when where
-it is applied in HTML page.
+it should be applied in HTML page.
 
 ---
 
 ## License & copyright
 
 © Nirmala Abothu, UW Bootcamp Full Stack Development Student.
+
+---
 
 ## Contributing
 
@@ -37,6 +39,8 @@ Added following semantic tags in index.html.
 - figcaption: caption(content) for a figure element inside figure element
 
 Did refactor the code in style.css file by combining all classes which has same property values to make css code clean,readable and to avoid duplicate code.
+
+---
 
 ## Deployed project link
 
